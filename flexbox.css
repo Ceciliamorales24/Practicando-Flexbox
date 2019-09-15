@@ -1,0 +1,28 @@
+body {
+    margin: 0%
+}
+
+.conteiner {
+    height: 600px;
+    width: 700px;
+    border: 10px solid lightblue;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+
+
+
+}
+
+.Elemento1,
+.Elemento2,
+.Elemento3,
+.Elemento4 {
+    background-color: orange;
+    width: 900px;
+    height: 90px;
+    margin: 4px;
+    text-align: center
+}
